@@ -1,1 +1,4 @@
 # MLOps
+Design
+Operate 
+Train
